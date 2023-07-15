@@ -1,2 +1,3 @@
 # hello-world
-My repository on GitHub
+This is my repository on GitHub.
+This document describes the GitHub flow.
